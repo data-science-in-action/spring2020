@@ -11,6 +11,7 @@ Date      | Slot       | Team      | Presenters       | Topic
 04/17   |  1          |Happy Beatles  |莫睿哲 田超 李明惠 韩瑞昕  |王学钦教授最新研究报告 
 04/17   |  2          |  Rockets  |  虞睿灵 董洁 常佳琪  |  林华珍教授研究最新报告：COVID-19在中国传播趋势分析
 04/17   |  3          |  Sunshine   | 梁青庆 冯晓方 双美俊 刘利姣 |  疫情下我国居民消费和进出口背景及模型介绍
+04/17   |             |Alien exploration team |  高彦梅 卫晓帆 戎翔 李宇| 意大利新冠疫情预测建模与理性评估
 04/17   |  4          | Pull Wind     | 肖世莺 张红丽 成宏媛 王瑜 | models of epidemic diseases
 04/17   |  1          |               |                         | 
 04/17   |  2          |               |                         |
@@ -21,6 +22,7 @@ Date      | Slot       | Team      | Presenters       | Topic
 05/08	  |  3          |               |                         |
 05/08	  |  4          |               |                         |
 05/15   |  1          |   Rainbow     |   杨洁 王瑶 张莉  管晓倩  | 武汉市疫情预测分析
+05/15   |              |Alien exploration team |  高彦梅 卫晓帆 戎翔 李宇| 意大利新冠疫情预测建模与理性评估
 05/15   |  2          | Pull Wind     | 肖世莺 张红丽 成宏媛 王瑜 | 基于SEIR模型的海外疫情模拟
 05/15	|  3          |  Sunshine   | 梁青庆 冯晓方 双美俊 刘利姣 |  疫情对我国居民消费和进出口的影响研究
 05/15	 |  4          |               |                         |
