@@ -14,7 +14,7 @@ Date      | Slot       | Team      | Presenters       | Topic
 04/17   |  4          | Pull Wind     | 肖世莺 张红丽 成宏媛 王瑜 | models of epidemic diseases
 04/17   |  1          |               |                         | 
 04/17   |  2          |               |                         |
-04/17	  |  3          |   |   |
+04/17	  |  3          |  Tsia     | 张楠；段成凤；苏思宁；乔姝婧   |新冠疫情下五大洲发展趋势对比分析 
 04/17	  |  4          |               |                         |
 05/08   |  1          | Team Happy    | 武碧璇 张妍 祁凡 屈亚然 丁晨东  | 细化政府干预SIR模型疫情预测
 05/08   |  2          |Guardians of the Galaxy| 和雅琳 薛宇荣 王昭元 赵敏| 深圳市COVID-19时空传播特征及规律研究 
