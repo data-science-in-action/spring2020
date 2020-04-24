@@ -107,3 +107,21 @@ description: "This is a series of notes for the students of
 	+ Watch your style (e.g., gamma in text mode and math mode are
       different notations)
 	+ Learn from each other --- the repos are all public
+
+# 04/24
+
+A project presentation is different from topic presentation
+
++ Project presentation focuses on your research question
+    - Why is it important?
+	- What's been done?
+	- What's your contribution?
+	- What're the take-home messages?
+	- It is a research presentation as in a research conference
+	    + Focus on results
+		+ Skip implementations unless the implementation is your
+          research quesitons like in statistical computing
++ A project progress report can report unsolved problems, potential
+  solutions, fall-back plans, discussion on limitations of the current
+  methods.
+
