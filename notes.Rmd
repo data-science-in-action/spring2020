@@ -125,3 +125,45 @@ A project presentation is different from topic presentation
   solutions, fall-back plans, discussion on limitations of the current
   methods.
 
+# 05/08
+
+Suggestions for presentation:
+
++ Introduce yourself
++ Be aware of time (several levels at the JSM)
++ Do not read
++ Slides are not to be the same as the article (font; figure; table; etc.)
++ Learn form others
+
+Suggestions on project research:
+
++ Review the literature
++ Be critical
++ Presentation in slides; report in article
++ Citation style (give credit where it's due)
+
+Comments
+
++ Team Happy
+    - Qi, Ding, and Wu presented
+    - Convergence check?
+    - Zhiwei Li; Mengtao Cui; Yuzhi Liu
+
++ Guardian of the Galaxy
+    - Moran's I; zscore; Monte Carlo
+    - High-low vs low-high
+	- Decomposition: direct/indirect
+	- Xiaohan Liu; Ruiling Yu
+	
++ Alien adventure
+    - Count data
+	- Fan Qi
+
++ Victor
+    - Heterogeneity among the provinces
+	- Parameter setting: needs time-varying?
+	- Peak in the plot meaning?
+	- What're the parameters to be estimated?
+	- Yao Wang; Yalin He; Xiaohan Liu; Yan Zhang; Xiaofang Feng;
+      Xiaorui Zhang; Lijiao Liu; Fang Guo
+	
