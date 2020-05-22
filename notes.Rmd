@@ -167,3 +167,78 @@ Comments
 	- Yao Wang; Yalin He; Xiaohan Liu; Yan Zhang; Xiaofang Feng;
       Xiaorui Zhang; Lijiao Liu; Fang Guo
 	
+# 05/15
+
+Openning
+
++ Tips of presentations
++ Keep GitHub repo updated
++ Don't forget final presentation order
+
+
+Rainbow
+
++ Parameter determination?
++ Tuning parameter in sann?
++ Mengtao Cui; Hongyu Cheng
+
+Pull Wind
+
++ Covariates at input?
++ Prediction uncertainty?
++ Xiaofang Feng; Yanmei Gao; Yalin He; Xuejiao Cao; Ruiling Yu
+
+Sunshine
+
++ Stationarity in variance?
++ 4.8701%?
++ 2.5 vs 1.9
++ Uncertainty
++ Prediction vs observed in March (export) (h-step ahead?)
++ Min Zhao; Xiaodan Wei
+
+The One
+
+# 05/22
+
+Rockets
+
++ CCF: how to define lag? Stationarity?
++ CCF results? what lag?
++ Qingqing Liang; Xueli Wang; Fan Wang
+
+Happy Beatles
+
++ Wang Xueqin's work
++ Data source (imported vs non-imported)
++ Raidar plot
++ Jump in synthetic line?
++ Yalin He
+
+Wonder Woman
+
++ R package for nonlinear regression?
++ Standardization process?
++ Clustering: preprocessing variables?
++ Weekly pattern for Russian/Brazil?
++ Goodness-of-fit?
+
+
+Lucky Girls
+
++ Red dots meaning
++ n.ahead?
++ prediction + variation
++ Validation of forecasting
++ KNN's time domain for rare event
++ Yin Liu; Xiaorui Zhang
+
+
+Guidelines for the Final Presentation and Final Report
+
++ Presentation is presentation; report is report
++ Authors' contribution statement in the report
++ A report is a paper (title, abstract, introduction,
+  methods/models/analysis, discussion/conclusion, references)
++ Code/data should be in the repo for reproducibility
+
