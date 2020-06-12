@@ -201,13 +201,13 @@ The One
 
 # 05/22
 
-Rockets
+## Rockets
 
 + CCF: how to define lag? Stationarity?
 + CCF results? what lag?
 + Qingqing Liang; Xueli Wang; Fan Wang
 
-Happy Beatles
+## Happy Beatles
 
 + Wang Xueqin's work
 + Data source (imported vs non-imported)
@@ -215,7 +215,7 @@ Happy Beatles
 + Jump in synthetic line?
 + Yalin He
 
-Wonder Woman
+## Wonder Woman
 
 + R package for nonlinear regression?
 + Standardization process?
@@ -223,8 +223,7 @@ Wonder Woman
 + Weekly pattern for Russian/Brazil?
 + Goodness-of-fit?
 
-
-Lucky Girls
+## Lucky Girls
 
 + Red dots meaning
 + n.ahead?
@@ -234,7 +233,7 @@ Lucky Girls
 + Yin Liu; Xiaorui Zhang
 
 
-Guidelines for the Final Presentation and Final Report
+## Guidelines for the Final Presentation and Final Report
 
 + Presentation is presentation; report is report
 + Authors' contribution statement in the report
@@ -242,3 +241,91 @@ Guidelines for the Final Presentation and Final Report
   methods/models/analysis, discussion/conclusion, references)
 + Code/data should be in the repo for reproducibility
 
+# 05/29 (final presentation 1)
+
+## Wonder Woman
+
++ Order of countries on page 3?
++ Jie Yang;
+
+## Tsia
+
++ English name for the model?
++ Quarantine measure specifics?
++ Hongyu Cheng; Ruizhe Mo; 
+
+## Pull Wind
+
++ adam? optimizer?
++ Huijun Mu; Jinping Lu
+
+## Guardians of the Galaxy
+
++ Baidu crawler
++ Scan applied to points or areal data?
++ Guangzi Liu; Ruizhe Mo
+
+
+# 06/05 (final presentation 2)
+
++ Reproducibility: figures/tables
+    - A whole cycle from raw data to results
++ Figures: pdf or ps (never png or jpg)
+
+## Team Happy
+
++ Presented by Yan Zhang, Yaran Qu
++ Questions addressed by Bixuan Wu
+
+## Happy Beatles
+
++ Presented by Minghui Li, Ruixin Han (interim report was done by the
+  other two members of the team)
++ What does it mean by delayed by one day or 7 days?
++ Average growth rate in each period assumption?
+
+## Rainbow
+
++ Plots: page 20; page 22;
++ A nice plot (left: rate Wuhan immigrant; rate of confirmed cases)
+
+## Rockets
+
++ page 7
++ AIC? Group 1 vs group 2?
++ Reference (BNU, Nature)?
++ Jingping Lu; Qingqing Liang
+
+# 06/12 (final presentation 3)
+
++ Form a good working style; "Add files via upload"?
++ Check out latex symbol list: $\log$, $\exp$, $\sigma$, etc.
++ Final report: 11:59pm, 6/26/2020
+
+## The One 
++ RR
++ Offset
++ Model diagnostics
++ Hongyu Cheng; Chao Tian
+
+## Lucky Girls
++ Why input missing holiday values?
++ VaR details?
++ 20-day ahead forecast?
++ Rolling prediction setting?
+
+## Alien Adventure
+
++ Selection of smoothing parameter?
+
+## Victor
+
++ Control coefficient $k$?
++ Exponential decaying of Rt: justification?
++ SEIR data versus parameters?
++ Uncertainty measure in parameter estimation?
+
+## Summary
+
++ Final report due: 11:59pm, 6/26/2020
++ Reproducibility
